@@ -87,3 +87,15 @@ form button {
 form button:hover {
     background-color: #1d5f3b;
 }
+
+#gallery img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#gallery img {
+    width: 300px;
+    height: auto;
+}
